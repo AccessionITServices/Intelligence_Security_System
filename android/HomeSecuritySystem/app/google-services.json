@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "888289635581",
+    "firebase_url": "https://homesecuritysystem-904ae.firebaseio.com",
+    "project_id": "homesecuritysystem-904ae",
+    "storage_bucket": "homesecuritysystem-904ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888289635581:android:a457010cc02490ac",
+        "android_client_info": {
+          "package_name": "com.example.accession_laptop2.homesecuritysystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888289635581-bor5c55fjlkmj9l0gagvql6f6tnsq80u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.accession_laptop2.homesecuritysystem",
+            "certificate_hash": "7d94100e4c6c90cb6a71dc0fd5d0250c2294a995"
+          }
+        },
+        {
+          "client_id": "888289635581-ei2l54j9r5hn2rps2k1ak1k8dtc7riit.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "888289635581-ei2l54j9r5hn2rps2k1ak1k8dtc7riit.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjeG03yg6vu5IFPBl-B2pYWIU_4dlbC50"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888289635581-ei2l54j9r5hn2rps2k1ak1k8dtc7riit.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
